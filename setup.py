@@ -4,7 +4,7 @@ setup(
     name="everythingisevangelion",
     version="0.1.0",
     description="Pathfinder from any Wikipedia article to Neon Genesis Evangelion",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding="utf-8).read(),
     long_description_content_type="text/markdown",
     author="mwlk1",
     url="https://github.com/mwlk1/everythingisevangelion",
