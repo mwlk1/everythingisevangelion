@@ -1,6 +1,14 @@
 Everythingisevangelion
 ----------------------
-A tool to find a path from a starting Wikipedia article to the "Neon Genesis Evangelion" article (or any article containing "Evangelion"). The path returned is the first one found, so results may vary.
+Have you ever thought that everything references Neon Genesis Evangelion and had a mental crisis?
+Well i've got a tool for you!
+
+----------------------
+It's a tool to find a path from a starting Wikipedia article to the "Neon Genesis Evangelion" article (or any article containing "Evangelion"). The path returned is the first one found, so results may vary.
+
+It works (sometimes).
+
+It also in specific cases (mostly coutries) jumps directly to Japan, but hey, it's on GitHub for a reason (please someone fix it).
 
 How to install?
 ----------------------
