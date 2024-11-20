@@ -39,3 +39,5 @@ Attributes:
 Known problems:
 ----------------------
 ● Despite the Wiki article not having a clickable link for it, the program finds a hidden link to "Japan" in some cities' and countries' articles. The fix would involve adding some pretty restrictive filters, which could block some clickable links from being fetched.
+
+● Because of the lack of filters, the program sometimes goes through weird articles like "Portal:Current_events". It's very hard to filter those out.
