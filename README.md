@@ -35,3 +35,7 @@ Attributes:
 ● my_eva.depth: The number of "clicks" (steps) it takes to reach the end article.
 
 ● my_eva.path: A list representing the path from the start article to the end article.
+
+Known problems:
+----------------------
+● Despite the Wiki article not having a clickable link for it, the program finds a hidden link to "Japan" in some cities' and countries' articles. The fix would involve adding some pretty restrictive filters, which could block the clickable links from being fetched.
