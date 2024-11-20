@@ -38,4 +38,4 @@ Attributes:
 
 Known problems:
 ----------------------
-● Despite the Wiki article not having a clickable link for it, the program finds a hidden link to "Japan" in some cities' and countries' articles. The fix would involve adding some pretty restrictive filters, which could block the clickable links from being fetched.
+● Despite the Wiki article not having a clickable link for it, the program finds a hidden link to "Japan" in some cities' and countries' articles. The fix would involve adding some pretty restrictive filters, which could block some clickable links from being fetched.
